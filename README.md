@@ -79,12 +79,11 @@ Throughout this journey, I will be working through structured networking fundame
 
 ## Current Certifications
 
+- CompTIA Network+ ![Status](https://img.shields.io/badge/status-planned-lightgrey)
+- CompTIA Security+ ![Status](https://img.shields.io/badge/status-planned-lightgrey)
+- Cisco Networking ![Status](https://img.shields.io/badge/status-in%20progress-yellow)
+- Cisco Packet Tracer Basics ![Status](https://img.shields.io/badge/status-complete-brightgreen)
 
-- [ ] CompTIA Network+ *(planned)*
-- [ ] CompTIA Security+ *(planned)*
-- [ ] Cisco Networking *(in progress)*
-- [x] Cisco Packet Tracer Basics *(finished)*
----
 ## Professional Goal
 
 My objective is to build a career in cybersecurity, starting with strong networking fundamentals and progressing through offensive and defensive security skills. This repository serves as a public record of that journey and demonstrates my commitment to continuous learning, structured practice, and hands-on documentation — not just certifications on paper.
